@@ -1,0 +1,13 @@
+./configure \  
+--enable-multibyte  \
+--enable-python3interp \ 
+--with-python3-command=/usr/bin/python3.11 \
+--with-python3-config-dir=/usr/lib/python3.11/config-3.11-arm-linux-gnueabihf \
+--enable-cscope \
+--enable-gui=auto \  
+--with-features=huge \  
+--enable-fontset \  
+--enable-largefile \  
+--disable-netbeans \
+--with-compiledby=vimer \  
+--enable-fail-if-missing \

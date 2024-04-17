@@ -1,0 +1,3 @@
+sudo make VIMRUNTIMEDIR=/usr/local/share/vim/vim91
+
+sudo make install
